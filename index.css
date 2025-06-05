@@ -3,6 +3,8 @@ html {
 }
 
 body {
+  margin-left: 10px;
+  margin-right: 10px;
   width: 300px;
   max-width: 750px;
   min-width: 480px;
